@@ -1,4 +1,4 @@
-<center><h1>MTG Arena</h1></center>
+<center><h1>Scheduler</h1></center>
 <hr>
 Code is private because of security reasons. <br>
 If anyone has a wish to see the code behind pictures shown below, please contact me via GitHub.
