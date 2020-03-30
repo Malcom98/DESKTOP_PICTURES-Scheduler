@@ -17,17 +17,17 @@ Desktop application has features like registering and logging in with captcha re
 </ul>
 
 Bellow this text, there are some pictures of a website.<br>
-*Login & Register*
+*Login & Register*<br>
 ![Login](https://user-images.githubusercontent.com/35956934/77963230-4d649e00-72dd-11ea-9f1d-6ac1174dadd4.png)
 <br>
 <br>
-*Clear scheduler*
+*Clear scheduler*<br>
 ![Scheduler](https://user-images.githubusercontent.com/35956934/77963062-ffe83100-72dc-11ea-9f39-18e45168d5f4.png)
 <br>
 <br>
-*Adding event*
+*Adding event*<br>
 ![AddEventExample](https://user-images.githubusercontent.com/35956934/77963075-04ace500-72dd-11ea-9a26-cb0f97833391.png)
 <br>
 <br>
-*Scheduler after adding events*
+*Scheduler after adding events*<br>
 ![SchedulerAdded](https://user-images.githubusercontent.com/35956934/77963064-01195e00-72dd-11ea-8620-31808caedcc4.png)
